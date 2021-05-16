@@ -1,0 +1,16 @@
+C:\Users\smigo\Desktop\zadania studia\4 semestr\grafika\grafika8\grafika8\bin\Debug\netcoreapp3.1\grafika8.exe
+C:\Users\smigo\Desktop\zadania studia\4 semestr\grafika\grafika8\grafika8\bin\Debug\netcoreapp3.1\grafika8.deps.json
+C:\Users\smigo\Desktop\zadania studia\4 semestr\grafika\grafika8\grafika8\bin\Debug\netcoreapp3.1\grafika8.runtimeconfig.json
+C:\Users\smigo\Desktop\zadania studia\4 semestr\grafika\grafika8\grafika8\bin\Debug\netcoreapp3.1\grafika8.runtimeconfig.dev.json
+C:\Users\smigo\Desktop\zadania studia\4 semestr\grafika\grafika8\grafika8\bin\Debug\netcoreapp3.1\grafika8.dll
+C:\Users\smigo\Desktop\zadania studia\4 semestr\grafika\grafika8\grafika8\bin\Debug\netcoreapp3.1\grafika8.pdb
+C:\Users\smigo\Desktop\zadania studia\4 semestr\grafika\grafika8\grafika8\obj\Debug\netcoreapp3.1\grafika8.csprojAssemblyReference.cache
+C:\Users\smigo\Desktop\zadania studia\4 semestr\grafika\grafika8\grafika8\obj\Debug\netcoreapp3.1\grafika8.Form1.resources
+C:\Users\smigo\Desktop\zadania studia\4 semestr\grafika\grafika8\grafika8\obj\Debug\netcoreapp3.1\grafika8.csproj.GenerateResource.cache
+C:\Users\smigo\Desktop\zadania studia\4 semestr\grafika\grafika8\grafika8\obj\Debug\netcoreapp3.1\grafika8.AssemblyInfoInputs.cache
+C:\Users\smigo\Desktop\zadania studia\4 semestr\grafika\grafika8\grafika8\obj\Debug\netcoreapp3.1\grafika8.AssemblyInfo.cs
+C:\Users\smigo\Desktop\zadania studia\4 semestr\grafika\grafika8\grafika8\obj\Debug\netcoreapp3.1\grafika8.csproj.CoreCompileInputs.cache
+C:\Users\smigo\Desktop\zadania studia\4 semestr\grafika\grafika8\grafika8\obj\Debug\netcoreapp3.1\grafika8.dll
+C:\Users\smigo\Desktop\zadania studia\4 semestr\grafika\grafika8\grafika8\obj\Debug\netcoreapp3.1\grafika8.pdb
+C:\Users\smigo\Desktop\zadania studia\4 semestr\grafika\grafika8\grafika8\obj\Debug\netcoreapp3.1\grafika8.genruntimeconfig.cache
+C:\Users\smigo\Desktop\zadania studia\4 semestr\grafika\grafika8\grafika8\obj\Debug\netcoreapp3.1\grafika8.Properties.Resources.resources
